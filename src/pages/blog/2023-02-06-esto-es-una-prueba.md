@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
-title: Esto es una prueba
+title: Primer blog post usando Netlify CMS
 date: 2023-02-06T20:44:19.303Z
-description: Vamos a ver si esta vez consigo que funcione Netlify CMS con el
-  template the Gatsby
+description: Como crear un sitio web con blogs de una manera sencilla
 featuredpost: true
 featuredimage: /img/insert.webp
 ---
-Todo esto que estamos haciendo es por tu bien. Por favor, no intentes hacer esto en tu casa. Este ejemplo ha sido realizado por especialistas con muchos años de experiencia.
+Si realmente quieres crear tu propio sitio web con la posibilidad de tener un apartado con blog, Netlify CMS te permite hacerlo de una manera muy sencilla.
+
+He de reconocer que me llevo un par de horas montar y configurar todo, ya que no lo habia hecho en mucho tiempo. Sin embargo, tras varios intentos, consegui tener activo el CMS y crear este post.
