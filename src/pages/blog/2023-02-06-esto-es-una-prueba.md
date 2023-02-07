@@ -11,3 +11,5 @@ Si realmente quieres crear tu propio sitio web con la posibilidad de tener un ap
 He de reconocer que me llevo un par de horas montar y configurar todo, ya que no lo habia hecho en mucho tiempo. Sin embargo, tras varios intentos, consegui tener activo el CMS y crear este post.
 
 Te animo a curiosear con este CMS y descubriras que te facilitara mucho las cosas a la hora de crear un sitio web con contenido de blog.
+
+![insert](/img/insert.webp "Insert")
